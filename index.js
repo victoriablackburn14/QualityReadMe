@@ -64,7 +64,7 @@ inquirer.prompt(questions).then((userAnswers)=>{
             return console.log(err);
         }
         console.log("successfully load to README.md")
-    })
+    });
     console.log(userAnswers)
 })
 .catch((err)=>console.log(err));
