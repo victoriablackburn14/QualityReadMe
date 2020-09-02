@@ -16,5 +16,5 @@
   test 1,2,3
   ## Liscensing Agreement:
   
-[!code1] ("./images/code1.png")
-[!code2] ("./images/code2.png")
+![code1] ("./images/code1.png")
+![code2] ("./images/code2.png")
